@@ -1,0 +1,7 @@
+print("Welcome to Mad Libs!")
+name = input("What is your name? ")
+adj = input("Enter an adjective: ")
+verb = input("Enter a verb: ")
+food = input("Enter a food: ")
+vehicle = input("Enter a vehicle: ")
+print(name, "is a very", adj, "person to be around. They love to cook in", home, )
